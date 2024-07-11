@@ -1,0 +1,4 @@
+[tool.flake8]
+exclude = .git ,__pychache__
+max-line-length = 79
+max-complexity = 8
