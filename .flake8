@@ -1,5 +1,5 @@
 [tool.flake8]
-exclude = .git ,__pychache__
+exclude = .git ,__pycache__
 max-line-length = 79
 max-complexity = 8
 import-order-style = google
